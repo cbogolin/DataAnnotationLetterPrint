@@ -1,0 +1,17 @@
+G:\Projects\DataAnnotationLetterPrint\bin\Debug\net9.0\DataAnnotationLetterPrint.exe
+G:\Projects\DataAnnotationLetterPrint\bin\Debug\net9.0\DataAnnotationLetterPrint.deps.json
+G:\Projects\DataAnnotationLetterPrint\bin\Debug\net9.0\DataAnnotationLetterPrint.runtimeconfig.json
+G:\Projects\DataAnnotationLetterPrint\bin\Debug\net9.0\DataAnnotationLetterPrint.dll
+G:\Projects\DataAnnotationLetterPrint\bin\Debug\net9.0\DataAnnotationLetterPrint.pdb
+G:\Projects\DataAnnotationLetterPrint\bin\Debug\net9.0\HtmlAgilityPack.dll
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.csproj.AssemblyReference.cache
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.AssemblyInfoInputs.cache
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.AssemblyInfo.cs
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.csproj.CoreCompileInputs.cache
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnno.4D3283C2.Up2Date
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.dll
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\refint\DataAnnotationLetterPrint.dll
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.pdb
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\DataAnnotationLetterPrint.genruntimeconfig.cache
+G:\Projects\DataAnnotationLetterPrint\obj\Debug\net9.0\ref\DataAnnotationLetterPrint.dll

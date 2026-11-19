@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbbZOiybnug=",
+  "success": true,
+  "projectFilePath": "G:\\Projects\\DataAnnotationLetterPrint\\DataAnnotationLetterPrint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chandler\\.nuget\\packages\\htmlagilitypack\\1.13.1\\htmlagilitypack.1.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
